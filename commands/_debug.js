@@ -1,7 +1,7 @@
 /*CMD
   command: /debug
   help: 
-  need_reply: 
+  need_reply: false
   auto_retry_time: 
   folder: 
   answer: 

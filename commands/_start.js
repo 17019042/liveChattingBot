@@ -6,10 +6,11 @@
   folder: 
 
   <<ANSWER
-Hello user. You can /login as admin or start /message with admin.
-Also you can see current properties: /debug
+
   ANSWER
   keyboard: 
   aliases: 
 CMD*/
+
+  Bot.sendInlineKeyboard([{title: "Begin messaging", command: "/message"} ], "Hello welcome to RP's LIVE Chat Bot \nwhere you can message and interact with our admin.")  
 
