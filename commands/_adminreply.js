@@ -10,5 +10,10 @@
 CMD*/
 
 cur_user_chat = Bot.getProperty("cur_user_chat");
-msg = "Answer from admin: " + "\n" + data.message + "\n/reply";
-Bot.sendMessageToChatWithId(cur_user_chat, msg);
+a_name = Bot.getProperty("admin_name");
+if(a_name==null){
+a_name = "Jamie";
+}
+msg = a_name + " says: " + "\n" + data.message;
+Bot.sendInlineKeyboardToChatWithId(cur_user_chat,[{title:"Reply", command: "/reply"}], msg);
+
