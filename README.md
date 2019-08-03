@@ -6,8 +6,6 @@ This repository can be imported to [Bots.Business](https://bots.business) as a w
 
 [Bots.Business](https://bots.business) - it is probably the first CBPaaS - Chat Bot Platform as a Service.
 
-A CBPaaS is a cloud-based platform that enables developers to create chatbots without needing to build backend infrastructure.
-
 ## Create your own bot for Telegram from this Git repo
 
 How to create bot?
