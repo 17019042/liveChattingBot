@@ -70,15 +70,3 @@ then you can run in any bot's command:
 
 See [more](https://help.bots.business/git/library)
 
-## Other bots example
-See other bots examples in the [github](https://github.com/bots-business?utf8=✓&tab=repositories&q=&type=public&language=javascript) or in the [Bot Store](https://bots.business/)
-
-
-## Other help
-[Help.bots.business](https://help.bots.business)
-
-## API
-See [API](https://api.bots.business/docs#/docs/summary)
-
-
-![](https://bots.business/images/web-logo.png)
